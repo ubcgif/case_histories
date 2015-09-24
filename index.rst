@@ -6,13 +6,12 @@ Case Histories
 **Contents:**
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    content/seven_steps/index
    content/mt_milligan/index
 
-Contributors:
-^^^^^^^^^^^^^
+**Contributors:**
 
 .. include:: AUTHORS.rst 
 
