@@ -3,13 +3,13 @@
 Case Histories
 ==============
 
-Contents:
-^^^^^^^^^
+**Contents:**
 
 .. toctree::
    :maxdepth: 1
 
    content/seven_steps/index
+   content/mt_milligan/index
 
 Contributors:
 ^^^^^^^^^^^^^
@@ -17,10 +17,10 @@ Contributors:
 .. include:: AUTHORS.rst 
 
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
 
