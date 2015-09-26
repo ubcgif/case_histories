@@ -1,6 +1,6 @@
 # GeoSci.xyz Case Histories
 
-case-histories.geosci.xyz
+http://case-histories.geosci.xyz
 
 A collection of case histories in geophysics
 
