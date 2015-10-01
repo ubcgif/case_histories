@@ -2,7 +2,7 @@
 
 Seven Step Framework
 ====================
-
+Hello
 Geophysics can play an important role in helping solve resource exploration,
 environmental, or geotechnical problems. The application of geophysics is most
 effectively carried out by following a seven-step framework. Careful thought
