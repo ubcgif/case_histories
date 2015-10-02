@@ -1,5 +1,7 @@
 # GeoSci.xyz Case Histories
 
+[![Build Status](https://travis-ci.org/ubcgif/case_histories.svg?branch=master)](https://travis-ci.org/ubcgif/case_histories)
+
 http://case-histories.geosci.xyz
 
 A collection of case histories in geophysics
