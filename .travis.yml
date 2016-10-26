@@ -13,5 +13,4 @@ script: sphinx-build -b html -d _build/doctrees . _build/html
 #  -W   Turn warnings into errors. This means that the build stops at the first warning and sphinx-build exits with exit status 1.
 
 notifications:
-  email:
-    - lindseyheagy@gmail.com
+  slack: ubcgif:1Z2lR3XYRSM3GHflG71ZHEN6
